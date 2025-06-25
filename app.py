@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import joblib
 import numpy as np
-import plotly.graph_objects as go
 from recommender_module import load_data, load_model, load_tag_similarity, recommend_cities_ml
 
 st.set_page_config(page_title="India Travel Recommender", page_icon="✈️", layout="wide", initial_sidebar_state="expanded")
