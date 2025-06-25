@@ -1,0 +1,101 @@
+Destination,State,Climate,Tags,Best_Season,Budget_Per_Day,Midrange_Per_Day,Luxury_Per_Day
+Mumbai,Maharashtra,tropical,"beaches,shopping,nightlife,architecture",Nov-Feb,3200,8500,25000
+Delhi,Delhi,extreme,"history,museums,shopping",Oct-Mar,2800,7500,22000
+Bangalore,Karnataka,moderate,"gardens,nightlife,shopping",Oct-Mar,3000,8000,23000
+Jaipur,Rajasthan,hot,"forts,palaces,history",Oct-Mar,2200,5500,16000
+Kochi,Kerala,tropical,"culture,beaches,heritage",Nov-Feb,2400,6000,17000
+Shimla,Himachal Pradesh,cold,"hill station,mountains,trekking",Apr-Jun,2600,6500,19000
+Varanasi,Uttar Pradesh,extreme,"temples,culture,heritage",Oct-Mar,1400,3500,10000
+Goa,Goa,tropical,"beaches,nightlife,culture,adventure",Nov-Feb,3100,8200,24000
+Udaipur,Rajasthan,hot,"lakes,palaces,history,forts",Oct-Mar,2300,5700,16500
+Darjeeling,West Bengal,cold,"trekking,hill station,mountains",Mar-May,2500,6300,18000
+Hyderabad,Telangana,hot,"history,forts,culture,architecture",Oct-Feb,2700,7000,20000
+Chennai,Tamil Nadu,tropical,"beaches,temples,culture",Nov-Feb,2600,6800,19000
+Amritsar,Punjab,extreme,"temples,history,heritage,culture",Oct-Mar,2100,5200,15000
+Rishikesh,Uttarakhand,moderate,"adventure,trekking,temples",Sep-Apr,1600,4000,12000
+Jodhpur,Rajasthan,hot,"forts,deserts,history,palaces",Oct-Mar,2150,5400,15500
+Kolkata,West Bengal,tropical,"culture,shopping,festivals,museums",Oct-Mar,2500,6500,18500
+Mysore,Karnataka,moderate,"palaces,gardens,festivals,heritage",Oct-Mar,2000,5000,14500
+Leh,Ladakh,cold,"adventure,mountains,trekking",Jun-Sep,3300,8700,26000
+Ahmedabad,Gujarat,hot,"heritage,shopping,architecture,culture",Oct-Mar,2100,5300,15000
+Pondicherry,Puducherry,tropical,"beaches,culture,heritage",Nov-Feb,2300,5800,16500
+Agra,Uttar Pradesh,extreme,"history,architecture,heritage",Oct-Mar,2000,5100,14000
+Pune,Maharashtra,moderate,"history,gardens,nightlife",Oct-Mar,2700,7200,21000
+Bhubaneswar,Odisha,tropical,"temples,history,museums,architecture",Oct-Mar,1800,4500,13000
+Lucknow,Uttar Pradesh,extreme,"history,architecture,shopping",Oct-Mar,1900,4800,13500
+Srinagar,Jammu and Kashmir,cold,"lakes,gardens,mountains,culture",Apr-Jun,2800,7400,22000
+Guwahati,Assam,tropical,"temples,nature,shopping,culture",Oct-Mar,1700,4200,12500
+Jaisalmer,Rajasthan,hot,"deserts,forts,history,culture,palaces",Oct-Mar,2250,5600,16000
+Manali,Himachal Pradesh,cold,"adventure,mountains,trekking,hill station",Apr-Jun,2700,7000,20000
+Ooty,Tamil Nadu,moderate,"hill station,gardens,nature",Oct-May,2100,5200,15000
+Kanyakumari,Tamil Nadu,tropical,"beaches,temples,heritage,culture",Nov-Feb,1600,4000,11500
+Madurai,Tamil Nadu,hot,"temples,architecture,culture,heritage",Nov-Feb,1500,3800,11000
+Aurangabad,Maharashtra,hot,"history,architecture,heritage",Oct-Mar,1700,4300,12500
+Haridwar,Uttarakhand,extreme,"temples,culture,adventure,festivals",Sep-Apr,1400,3500,10000
+Coimbatore,Tamil Nadu,moderate,"nature,gardens,temples,culture",Nov-Feb,1900,4800,14000
+Visakhapatnam,Andhra Pradesh,tropical,"beaches,temples,culture",Nov-Feb,2000,5000,14500
+Indore,Madhya Pradesh,hot,"history,shopping,temples,culture",Oct-Mar,1800,4500,13000
+Bhopal,Madhya Pradesh,extreme,"lakes,history,museums,heritage",Oct-Mar,1700,4200,12000
+Nagpur,Maharashtra,hot,"culture,history,temples",Oct-Mar,1800,4600,13500
+Patna,Bihar,extreme,"history,museums,temples,heritage",Oct-Mar,1600,4000,11500
+Vadodara,Gujarat,hot,"palaces,museums,architecture",Oct-Mar,1900,4700,14000
+Surat,Gujarat,hot,"shopping,history,culture",Oct-Mar,2000,5000,14500
+Kanpur,Uttar Pradesh,extreme,"history,temples,culture,shopping",Oct-Mar,1600,4100,12000
+Dehradun,Uttarakhand,moderate,"hill station,nature,adventure",Sep-Apr,2000,5100,15000
+Gangtok,Sikkim,cold,"mountains,hill station,adventure,trekking",Mar-May,2400,6200,18000
+Shillong,Meghalaya,moderate,"nature,waterfalls,hill station",Mar-May,1900,4800,14000
+Imphal,Manipur,moderate,"lakes,culture,history",Oct-Mar,1700,4300,12500
+Aizawl,Mizoram,moderate,"hill station,culture,nature",Oct-Mar,1800,4500,13000
+Kohima,Nagaland,moderate,"history,culture,festivals,mountains",Oct-Mar,1700,4200,12000
+Itanagar,Arunachal Pradesh,moderate,"nature,history,adventure,culture",Oct-Mar,1800,4600,13500
+Thiruvananthapuram,Kerala,tropical,"beaches,temples,culture",Nov-Feb,2000,4800,14000
+Gwalior,Madhya Pradesh,extreme,"forts,history,palaces",Oct-Mar,1700,4300,12500
+Ajmer,Rajasthan,hot,"temples,culture,lakes",Oct-Mar,1600,4000,11500
+Bikaner,Rajasthan,hot,"deserts,forts,history,heritage",Oct-Mar,2100,5300,15000
+Diu,Diu,tropical,"beaches,forts,history,architecture",Nov-Feb,1800,4500,13000
+Siliguri,West Bengal,moderate,"hill station,nature,shopping,mountains",Oct-Mar,1900,4700,13500
+Jabalpur,Madhya Pradesh,extreme,"waterfalls,nature,temples",Oct-Mar,1700,4200,12000
+Ranchi,Jharkhand,moderate,"waterfalls,nature,temples",Oct-Mar,1800,4500,13000
+Raipur,Chhattisgarh,hot,"lakes,history,temples,culture",Oct-Mar,1700,4300,12500
+Dharamshala,Himachal Pradesh,cold,"hill station,mountains,temples,trekking",Apr-Jun,2000,5100,15000
+Kodaikanal,Tamil Nadu,moderate,"hill station,lakes,nature",Oct-May,1900,4800,14000
+Alleppey,Kerala,tropical,"lakes,nature,beaches",Nov-Feb,2200,5500,16000
+Tirupati,Andhra Pradesh,hot,"temples,culture,heritage",Nov-Feb,1500,3800,11000
+Khajuraho,Madhya Pradesh,extreme,"temples,architecture,heritage",Oct-Mar,1600,4100,12000
+Hampi,Karnataka,hot,"history,architecture,heritage,temples",Oct-Mar,1700,4300,12500
+Pushkar,Rajasthan,hot,"temples,festivals,lakes,culture",Oct-Mar,1500,3900,11500
+Dwarka,Gujarat,tropical,"temples,beaches,history,heritage",Oct-Mar,1600,4000,12000
+Rameshwaram,Tamil Nadu,tropical,"temples,beaches,culture",Nov-Feb,1400,3600,10500
+Puri,Odisha,tropical,"temples,beaches,festivals",Nov-Feb,1600,4100,12000
+Jamnagar,Gujarat,hot,"temples,culture,architecture",Oct-Mar,1700,4200,12500
+Gandhinagar,Gujarat,hot,"gardens,history,architecture",Oct-Mar,1800,4500,13000
+Nashik,Maharashtra,hot,"temples,history,lakes,heritage",Oct-Mar,1800,4600,13500
+Kottayam,Kerala,tropical,"lakes,nature,temples,culture",Nov-Feb,1700,4300,12500
+Thrissur,Kerala,tropical,"festivals,temples,culture",Nov-Feb,1900,4800,14000
+Mangalore,Karnataka,tropical,"beaches,temples,culture",Nov-Feb,2000,5000,14500
+Belgaum,Karnataka,moderate,"forts,history,nature",Oct-Mar,1700,4300,12500
+Hubli,Karnataka,hot,"history,temples,culture,heritage",Oct-Mar,1600,4100,12000
+Guntur,Andhra Pradesh,hot,"history,temples,culture,heritage",Nov-Feb,1500,3800,11000
+Vijayawada,Andhra Pradesh,hot,"temples,culture,heritage",Nov-Feb,1600,4000,12000
+Warangal,Telangana,hot,"history,forts,temples",Oct-Mar,1700,4200,12500
+Nellore,Andhra Pradesh,tropical,"beaches,temples,history",Nov-Feb,1500,3900,11500
+Tirunelveli,Tamil Nadu,hot,"temples,waterfalls,nature",Nov-Feb,1600,4000,12000
+Salem,Tamil Nadu,hot,"temples,nature,culture",Nov-Feb,1500,3800,11000
+Erode,Tamil Nadu,hot,"temples,shopping,history",Nov-Feb,1500,3900,11500
+Vellore,Tamil Nadu,hot,"forts,temples,history",Nov-Feb,1600,4100,12000
+Jammu,Jammu and Kashmir,cold,"temples,mountains,history,culture",Apr-Jun,1900,4800,14000
+Bhavnagar,Gujarat,hot,"temples,history,culture",Oct-Mar,1700,4200,12500
+Porbandar,Gujarat,tropical,"beaches,history,culture",Oct-Mar,1600,4000,12000
+Rajkot,Gujarat,hot,"history,shopping,temples",Oct-Mar,1700,4300,12500
+Junagadh,Gujarat,hot,"forts,history,temples,mountains",Oct-Mar,1600,4100,12000
+Kollam,Kerala,tropical,"lakes,beaches,nature",Nov-Feb,1700,4300,12500
+Nainital,Uttarakhand,cold,"lakes,hill station,mountains,nature",Mar-May,2000,5100,15000
+Mussoorie,Uttarakhand,cold,"hill station,mountains,trekking,nature",Apr-Jun,2100,5300,15500
+Almora,Uttarakhand,cold,"hill station,nature,temples,heritage",Mar-May,1900,4800,14000
+Mount Abu,Rajasthan,cold,"hill station,lakes,temples",Oct-Mar,2000,5000,14500
+Dalhousie,Himachal Pradesh,cold,"hill station,mountains,nature",Apr-Jun,2100,5200,15000
+McLeod Ganj,Himachal Pradesh,cold,"mountains,adventure,trekking",Apr-Jun,2000,5100,15000
+Port Blair,Andaman and Nicobar,tropical,"beaches,nature,history",Nov-Feb,3400,9000,27000
+Kullu,Himachal Pradesh,cold,"adventure,nature,trekking,hill station",Apr-Jun,2500,6400,18500
+Somnath,Gujarat,tropical,"temples,beaches,history",Oct-Mar,1500,3900,11500
+Daman,Daman and Diu,tropical,"beaches,history,heritage,forts",Nov-Feb,1900,4700,13500
